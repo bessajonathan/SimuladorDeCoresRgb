@@ -1,0 +1,24 @@
+.Valores {
+    width: 50px;
+}
+
+#labelVerde {
+    margin-right: 25px;
+    color: green;
+}
+
+#labelAzul {
+    margin-right: 33px;
+    color: blue
+}
+
+#labelVermelho {
+    color: red;
+}
+
+#CampoRgb {
+    margin-left: 100px;
+    height: 100px;
+    width: 100px;
+    background-color: black
+}
